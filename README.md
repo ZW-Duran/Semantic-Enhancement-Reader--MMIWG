@@ -1,8 +1,11 @@
 # **One-Touch News Text Quantitative Coding Tool**
 https://github.com/ZW-Duran/Semantic-Enhancement-Reader--MMIWG
+
 Oct. 14th, 2026
 
-A lightweight, secure, and user-friendly Streamlit-based web application designed for researchers to perform structured quantitative coding of US newspaper archives using Google AI Studio.
+A lightweight, secure, and user-friendly Streamlit-based web application designed for researchers to perform structured quantitative coding of US newspaper archives using Google AI Studio. 
+
+[Demo](https://mmiwg.z1w.net)
 
 ## Introduction
 Welcome! This tool helps our research team perform structured quantitative coding of newspaper archives using Google AI Studio. 
@@ -78,4 +81,3 @@ When our team updates the prompts or code:
 2. Click **`Download ZIP`** again to get the latest version.
 3. Replace your old folder with the new one (or just replace the updated `.py` files).
 > If there's a main update, delete your previous folder (including the .venv). Download the latest ZIP File and re-run the install script.
-
