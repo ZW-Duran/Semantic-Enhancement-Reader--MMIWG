@@ -31,7 +31,7 @@ source .venv/bin/activate
 python -m pip install --upgrade pip
 
 echo "[3/3] Installing required packages (Streamlit, Google GenAI, etc.)..."
-pip install -r requirements.txt
+pip install -r ./requirements.txt
 
 echo ""
 echo "========================================================"
@@ -39,4 +39,4 @@ echo "  [SUCCESS] Environment setup complete!"
 echo "  You can now close this window and double-click"
 echo "  'run_mac.command' to launch the suite."
 echo "========================================================"
-read -p "Press Enter to close this window..."
+read -p "Press Return to close this window..."
